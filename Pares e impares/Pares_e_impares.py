@@ -6,5 +6,8 @@ for i in range(5):
         Pares = Pares + 1
     else:
         Impares = Impares + 1
-print (Pares)
-print (Impares)
+
+# Output
+print("\nCantidad de números pares: "+str(Pares))
+print("Cantidad de números impares: "+str(Impares))
+print(" ")
